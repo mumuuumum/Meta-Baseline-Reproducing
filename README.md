@@ -1,4 +1,7 @@
+Declaration: The repository is used to reproduce the Meta-Baseline in paper "Meta-Baseline: Exploring Simple Meta-Learning for Few-Shot Learning".We use LibFewShot as framework.Most of the contents of this repository belong to https://github.com/RL-VIG/LibFewShot.
+
 # [LibFewShot](https://arxiv.org/abs/2109.04898)
+
 Make few-shot learning easy.
 
 [LibFewShot: A Comprehensive Library for Few-shot Learning](https://www.computer.org/csdl/journal/tp/5555/01/10239698/1Qck3o85t60).
